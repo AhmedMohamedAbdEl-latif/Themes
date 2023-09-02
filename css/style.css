@@ -1,0 +1,79 @@
+body{
+    height: 100vh;
+}
+
+
+.et3amel {
+    width: 500px;
+    padding: 0px 0px 10px 0px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+label {
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+}
+
+.et3amel .GoYallaaa {
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    border: 0.8px solid #ddd;
+    border-radius: 13px
+   
+}
+
+
+.row {
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    transition: all 0.9s;
+
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 20px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 20px;
+    margin-bottom: 60px;
+}
+
+h3 {
+    font-size: 30px;
+    line-height: 20px;
+}
+
+.darkTheme{
+    color: black;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+    transition: all 0.9s;
+}
+.lightTheme{
+    background-color: white;
+    color: yellow;
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+    transition: all 0.9s;
+}
+.dark {
+    background-color: black;
+    color: white;
+}
